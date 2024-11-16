@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: com.fdmgroupDemo.AccountServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 3.487 s <<< FAILURE! -- in com.fdmgroupDemo.AccountServiceTest
+com.fdmgroupDemo.AccountServiceTest.createAccountTest -- Time elapsed: 0.088 s <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "java.util.List.add(Object)" because "this.accounts" is null
+	at com.fdmgroupDemo.model.Customer.addAccount(Customer.java:84)
+	at com.fdmgroupDemo.service.AccountService.createAccount(AccountService.java:43)
+	at com.fdmgroupDemo.AccountServiceTest.createAccountTest(AccountServiceTest.java:58)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+
