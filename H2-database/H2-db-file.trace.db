@@ -1,0 +1,30 @@
+2024-07-30 17:56:19.403641-07:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM[*]"; expected "identifier"; SQL statement:
+SELECT * FROM [42001-224]
+2024-07-30 17:56:36.358035-07:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CUSTOMER" not found (this database is empty); SQL statement:
+SELECT * FROM customer [42104-224]
+2024-07-30 17:57:02.998450-07:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM [*]*"; expected "identifier"; SQL statement:
+SELECT * FROM * [42001-224]
+2024-07-30 17:57:11.381344-07:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM [*]*"; expected "identifier"; SQL statement:
+SELECT * FROM * [42001-224]
+2024-07-30 17:57:11.946865-07:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM [*]*"; expected "identifier"; SQL statement:
+SELECT * FROM * [42001-224]
+2024-07-30 17:57:12.112865-07:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM [*]*"; expected "identifier"; SQL statement:
+SELECT * FROM * [42001-224]
+2024-07-30 17:57:12.267864-07:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM [*]*"; expected "identifier"; SQL statement:
+SELECT * FROM * [42001-224]
+2024-07-30 17:57:12.422865-07:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM [*]*"; expected "identifier"; SQL statement:
+SELECT * FROM * [42001-224]
+2024-07-30 17:57:12.592993-07:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM [*]*"; expected "identifier"; SQL statement:
+SELECT * FROM * [42001-224]
+2024-07-30 17:57:13.082433-07:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM [*]*"; expected "identifier"; SQL statement:
+SELECT * FROM * [42001-224]
