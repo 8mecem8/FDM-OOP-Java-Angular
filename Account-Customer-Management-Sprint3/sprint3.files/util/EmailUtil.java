@@ -16,8 +16,8 @@ public class EmailUtil
 
     private static final String SMTP_HOST = "mail.smtp2go.com";
     private static final String SMTP_PORT = "2525";
-    private static final String USERNAME = "bumbum";
-    private static final String PASSWORD = "exgCR9gMn90ccQbs";
+    private static final String USERNAME = "bumbu";
+    private static final String PASSWORD = "exgCR9gMn";
  // provide sender's email ID
  	private static String from = "beyazsap@yandex.com.tr";
 
